@@ -1,6 +1,10 @@
-# maven-project
-Source code for James Lee's Jenkins course.
+# mvn-hello-world-web-app
+Java Hello World web application created using maven-archetype-webapp
 
-Check out our Latest DevOps PDF book.
+#Test
 
-https://www.level-up.one/devops-pdf-book
+## Dependancies
+* git
+* maven
+* tomcat
+
